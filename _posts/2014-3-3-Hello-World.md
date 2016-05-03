@@ -10,3 +10,4 @@ ktoré budú podľa mňa stáť za zdieľanie a daľšie šírenie.
 
 
 
+
