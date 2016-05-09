@@ -64,3 +64,4 @@ Obsah bude zdieľaný na našich osobných stránkach. Ak sa rozhodneme webu ven
 ### Kontakt
 
 [petermicko010@gmail.com](mailto:petermicko010@gmail.com)
+[cerny.hans@gmail.com](mailto:cerny.hans@gmail.com)
