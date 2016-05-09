@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $black;
+	background: ##2D2D2D;
   font: 18px/1.4 $helvetica;
-  color: #D9D9D9;
+  color: #C9C9C9;
 }
 
 .container {
@@ -117,16 +117,16 @@ img {
 
 .date {
   font-style: italic;
-  color: #D9D9D9;
+  color: #707070;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: #AAAAAA;
   background: #D9D9D9;
 }
 ::selection {
-  color: $black;
+  color: #AAAAAA;
   background: #D9D9D9;
 }
 
@@ -156,7 +156,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid #D9D9D9;
+  border-bottom: 1px solid #AAAAAA;
 
   @include mobile {
     text-align: center;
@@ -245,7 +245,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid #D9D9D9;
+  border-bottom: 1px solid #AAAAAA;
 }
 
 .posts > .post:last-child {
@@ -277,7 +277,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: #D9D9D9;
+  background-color: #AAAAAA;
 }
 
 footer {
